@@ -1,0 +1,27 @@
+{
+  "name": "Snake NFT #0",
+  "description": "Snake NFT é uma peça digital única criada por De NC na Syra Chain. Este NFT representa independência, descentralização e a evolução de projetos autorais dentro do ecossistema blockchain.",
+  "image": "https://raw.githubusercontent.com/SyraDevOps/Snakenft/main/Snakenft.png",
+  "attributes": [
+    {
+      "trait_type": "Coleção",
+      "value": "Snake NFT"
+    },
+    {
+      "trait_type": "Autor",
+      "value": "De NC"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Syra Chain"
+    },
+    {
+      "trait_type": "Tipo",
+      "value": "NFT ERC721"
+    },
+    {
+      "trait_type": "Edição",
+      "value": "Gênesis"
+    }
+  ]
+}
